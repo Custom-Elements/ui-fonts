@@ -3,19 +3,15 @@
   "version": "0.0.0",
   "description": "@font-face definitions using inline base64 to make your life with Polymer easier",
   "scripts": {
-    "postinstall": "gulp build",
-    "test": "gulp watch"
+    "postinstall": "make"
   },
   "authors": [
     "Will Ballard <wballard@mailframe.net>"
   ],
   "license": "MIT",
   "dependencies": {
-    "gulp": "~3.6.2",
     "handlebars": "~2.0.0-alpha.4",
-    "coffee-script": "~1.7.1",
-    "event-stream": "~3.1.5",
-    "gulp-rename": "~1.2.0"
+    "coffee-script": "~1.7.1"
   },
   "repository": "git@github.com:Custom-Elements/ui-fonts.git"
 }
