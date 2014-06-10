@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "handlebars": "~2.0.0",
-    "coffee-script": "~1.7.1"
+    "coffee-script": "~1.7.1",
+    "less": "~1.7.1"
   },
   "repository": "git@github.com:Custom-Elements/ui-fonts.git"
 }
