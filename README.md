@@ -1,12 +1,9 @@
 #Overview
-Fonts, inlined for better speed via less web requests with data-uri.
 This provides `less` files, which can simply be imported and there is
 no need for you to worry about the font path, which makes it great when
 working with [Polymer](http://www.polymer-project.org/).
 
 ##Usage
-This is provided as npm since it has a build step using
-[gulp](http://gulpjs.com/).
 
 ```shell
 npm install --save custom-elements/ui-fonts.git
