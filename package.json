@@ -7,7 +7,12 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ui-font-awesome": "4.3.0"
+    "ui-font-awesome": "4.3.1"
   },
+  "files": [
+    "anonymous-pro.less",
+    "fonts.html",
+    "fonts"
+  ],
   "repository": "git@github.com:Custom-Elements/ui-fonts.git"
 }
