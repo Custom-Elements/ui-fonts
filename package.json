@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "handlebars": "^3.0.3",
-    "ui-font-awesome": "git://github.com/custom-elements/ui-font-awesome#master"
+    "ui-font-awesome": "git+https://github.com/custom-elements/ui-font-awesome#master"
   },
   "files": [
     "anonymous-pro.less",
